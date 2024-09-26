@@ -35,3 +35,4 @@ git commit
 
 
 clonar para trabajar en un mismo proyecto
+git clone https://github.com/CapCriss/clase-5.git
