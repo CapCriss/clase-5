@@ -28,11 +28,16 @@ Aqui pide logear solo una vez a menos que cambie de email
 Solo la primera vez que suba un proyecto nuevo.
 luego solo es git push para subir los archivos nuevos
 
-git status para saber que tengo oque cambios he hecho o puedo guardar
+git status  para saber que tengo o que cambios he hecho o puedo guardar
 git add .
 git commit
+luego de editar o agregar más archivos solo es:
+git add . para añadir todo al repositorio
+git commit -m "descripcion de cambio/s"
 
 
 
-clonar para trabajar en un mismo proyecto
+
+clonar para trabajar en un mismo proyecto 
 git clone https://github.com/CapCriss/clase-5.git
+usando git desde terminal de vs code :D
